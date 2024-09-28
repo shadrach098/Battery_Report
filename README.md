@@ -26,7 +26,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/battery-monitor.git
+git clone https://github.com/shadrach098/battery-monitor.git
 cd battery-monitor
 Run the script:
 
